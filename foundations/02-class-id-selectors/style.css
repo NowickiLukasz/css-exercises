@@ -1,0 +1,18 @@
+p{
+    background-color: lightcoral;
+    font-family: "Verdana", "sans-serif"
+}
+p.bigger{
+    font-size: 24px;
+}
+#blue-lrg{
+    color: blue;
+    font-size: 36px;
+}
+#green-bold{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+
+}
+
