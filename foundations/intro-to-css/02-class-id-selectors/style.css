@@ -1,0 +1,19 @@
+.odd_number {
+    background-color: lightpink;
+    font: verdana, DejaVu Sans, sans-serif;
+}
+
+#number_two {
+    color: blue;
+    font-size: 36px;
+}
+
+#green_background {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cool {
+    font-size: 24px;
+}
